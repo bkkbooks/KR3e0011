@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR3e0011/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0011/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 褚氏遺書
+  date: '2015-08-24 23:04:09.215920'
+  source:
+    repository: kanripo
+    path: KR3e0011
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0011_000-WYG.yaml, hash: 'sha256:802794afe20c6981e410e5dc42382576dacacee22eb68cf60e396c764d1d535d'}
+  - {seq: 1, filename: KR3e0011_001-WYG.yaml, hash: 'sha256:baf096c80257ac63ff099f27206c9815bb46c7a0cca80f09350808181ec30d7d'}
+  - {seq: 2, filename: KR3e0011_002-WYG.yaml, hash: 'sha256:5f8af6979818cb40d5b994bee106cbd2fd5f1ecd535109ae5da4fe448dfcb308'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0011_000-WYG.markers.yaml, hash: 'sha256:06ced3678df57b0badc67f8f0f156d4b20d8d965005d57d2de0e2d9879ecff31'}
+  - {seq: 1, role: markers, filename: assets/KR3e0011_001-WYG.markers.yaml, hash: 'sha256:ab25a5b209bb258b62796bbfe218298b19326f14f3c5d4febd733a30790499ab'}
+  - {seq: 2, role: markers, filename: assets/KR3e0011_002-WYG.markers.yaml, hash: 'sha256:ced95d2a8617091650d8424927423b264bb38073d53e97524fb349709245306c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0011_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 407
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0011_WYG_000-3a
+    span:
+    - body
+    - 407
+    - 823
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0011_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2652
+  label: 褚氏遺書
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0011_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 4
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:4c9607325c98f931771cb3becf8d24ef2c4aca7881bef48b679819c61867c546
