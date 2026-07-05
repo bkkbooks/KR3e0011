@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3e0011_001.yaml, hash: 'sha256:a8599a7655cb1ee6fae841f00f7dfda08cd10b938e51be75b4209564bc024121'}
+  - {seq: 1, filename: KR3e0011_001.yaml, hash: 'sha256:d55e37a679de8431be920df445d040b85019895672f2adfe4edbc597715787b4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3e0011_001.markers.yaml, hash: 'sha256:4dd1d20ef46105d34a8885d23d4f1b27e350a640bd3bdbdcccbb35d1127fd67e'}
+  - {seq: 1, role: markers, filename: assets/KR3e0011_001.markers.yaml, hash: 'sha256:23ccbcb2d31a1f27f899c5965f06fb3975a9f470cfdecdbf5f166bd3f7cd18ab'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 褚氏遺書
   type: section
   level: 1
-hash: sha256:95de2d14df2051fee460887b75acf64cdbda38eea6ab1a103662a6289223619f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4a81e0a568ef23809d6f9b82656e85ed6b6508e7f1a8cf5f6b7ea6da0825d595
