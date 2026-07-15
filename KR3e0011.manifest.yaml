@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3e0011/v1
 canonical_location: https://kanripo.org/bkk/KR3e0011/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 褚氏遺書一卷
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3e0011_001.yaml, hash: 'sha256:d55e37a679de8431be920df445d040b85019895672f2adfe4edbc597715787b4'}
+  - {seq: 1, filename: KR3e0011_001.yaml, hash: 'sha256:1661cc597897e85a4aa7d50517f3fdd1df3bd5f9ffdd07ccd65cb43c17dba66e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3e0011_001.markers.yaml, hash: 'sha256:23ccbcb2d31a1f27f899c5965f06fb3975a9f470cfdecdbf5f166bd3f7cd18ab'}
+  - {seq: 1, role: markers, filename: assets/KR3e0011_001.markers.yaml, hash: 'sha256:21010249d714bd25877cceacb1a7aba7252dc4092836b55ee39961cc1be9f0ac'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,7 @@ table_of_contents:
   label: 褚氏遺書
   type: section
   level: 1
-hash: sha256:4a81e0a568ef23809d6f9b82656e85ed6b6508e7f1a8cf5f6b7ea6da0825d595
+hash: sha256:1166c0880408b74b96300a8fec47cacf01fa9f4dbee0ee0e31e5bfd7d9e2fcf3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
