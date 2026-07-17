@@ -21,9 +21,9 @@ assets:
   - {seq: 1, filename: KR3e0011_001-krp.yaml, hash: 'sha256:153a8d4530a5280f3181ac99a842b9fe6ed0c3cf284e8af22dd2f3561d4710fb'}
   - {seq: 2, filename: KR3e0011_002-krp.yaml, hash: 'sha256:bcbd2e440f758ea946d052ed8fbba684d1df233d294872187ecfd797b64ecfdc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0011_000-krp.markers.yaml, hash: 'sha256:7669b97bcd405e3ec1f44bf7803b1258751220226d6604070e6722980a9719c4'}
+  - {seq: 0, role: markers, filename: assets/KR3e0011_000-krp.markers.yaml, hash: 'sha256:31a5c2fa30496082aec704292c5e394217d43f9ed28bd415e1e5b90ad87be41f'}
   - {seq: 1, role: markers, filename: assets/KR3e0011_001-krp.markers.yaml, hash: 'sha256:070c386956282e2b78f01f162606fbf4a2475effb6998b46a8149da7f15173ef'}
-  - {seq: 2, role: markers, filename: assets/KR3e0011_002-krp.markers.yaml, hash: 'sha256:973f27be2cb9053222e5787c85a419f4a98beee2579ebce48e5f502e2ddb3580'}
+  - {seq: 2, role: markers, filename: assets/KR3e0011_002-krp.markers.yaml, hash: 'sha256:cf70e22f6aecb9e30d5cbae3a4b7d7195a231cd78dda11493ed9a39a80c0850d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -65,4 +65,4 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:746de6af80653905f9b472e8170ec43b8425679b12798d5f12fdbec4028777da
+hash: sha256:2b3a247ffbbac3bd0ded90274283f4852eb2fcafd0909871927a798e432ba1e6
